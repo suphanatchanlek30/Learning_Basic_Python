@@ -12,7 +12,7 @@
 # numpy 
 import numpy as np
 # เรีกยใช้
-ืnp.zeros(10)
+np.zeros(10)
 
 # แบบที่ 2 
 import numpy
